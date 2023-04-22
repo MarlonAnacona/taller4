@@ -1,4 +1,9 @@
-# Video-and-images-textures
-Instalar dependencias con "npm install"
+# Video and images texture three js
 
-Para correr el proyecto en el puerto local con "npm run start"
+## Dependencys:
+
+        Npm install
+
+## Run project:
+
+        Npm run start
